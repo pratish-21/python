@@ -1,0 +1,7 @@
+print("hello world\nhello world")
+print("hello" + "pratish" )
+print("hello " + "pratish")
+print("hello"+" pratish")
+print("hello" + " " + "pratish")
+print()
+print('String Manipulation Exercise\nString Concatenation is done , with "+" sign\ne.g. print("Hello" + "Pratish")\nNew Lines can be created with a backslash and n')
